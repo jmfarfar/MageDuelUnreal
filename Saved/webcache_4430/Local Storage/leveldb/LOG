@@ -1,2 +1,3 @@
-2024/04/20-08:13:25.783 baf8 Creating DB D:/Unreal/Maestria/Projects/Mage/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/04/20-08:13:25.797 baf8 Reusing MANIFEST D:/Unreal/Maestria/Projects/Mage/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/20-08:45:46.033 d750 Reusing MANIFEST D:/Unreal/Maestria/Projects/Mage/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/20-08:45:46.033 d750 Recovering log #3
+2024/04/20-08:45:46.034 d750 Reusing old log D:/Unreal/Maestria/Projects/Mage/Saved/webcache_4430\Local Storage\leveldb/000003.log 
